@@ -28,13 +28,3 @@ Always learning, always building 🚀
 </a>
 
 </div>
-
----
-<details>
-<summary><b>📊 GitHub Stats (Click to expand)</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelazizomar22&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelazizomar22&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-</details>

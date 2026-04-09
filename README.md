@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! &#128075; I'm Abdelaziz Omar</h1>
-<h3 align="center">Back End Developer</h3>
+<h3 align="center">Software Developer</h3>
 <hr />
 
 <table width="100%">
@@ -29,10 +29,10 @@
 
 <h2>Technical Skills</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,cs,postgres,mongodb,mysql&perline=8" alt="Backend and database skills" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,express,npm,sequelize,postgres&perline=8" alt="Languages and backend skills" />
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=redis,docker,git,postman,linux,bash,npm,sequelize&perline=8" alt="Tools and backend workflow skills" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,git,postman,linux,bash&perline=8" alt="Databases and workflow tools" />
 </p>
 
 <h2>What I Do</h2>

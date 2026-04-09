@@ -1,72 +1,58 @@
-# Hi there! 👋 I'm Abdelaziz Omar
+<h1 align="center">Abdelaziz Omar</h1>
 
-<div align="center">
+<p align="center">Back End Developer</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Back+End+Developer;Node.js+%7C+Express.js+%7C+PostgreSQL;Building+secure+%26+scalable+APIs)](https://git.io/typing-svg)
+<p align="center">
+  Building reliable backend services, clean APIs, and practical systems with a strong focus on fundamentals.
+</p>
 
-</div>
+<hr />
 
----
+<table>
+  <tr>
+    <td valign="top" width="56%">
 
-## 🚀 About Me
+## Profile
 
-- 🔧 Passionate about building secure and scalable backend services
-- 🎓 B.Sc. Computer Science @ Culture & Science City (2022 – 2026)
-- 📫 Reach me at: **abdelaziz.omar405@gmail.com**
+Back End Developer with hands-on experience building server-side applications and API-driven systems.
 
-## 🤝 Connect with me
+I work mainly with Node.js and Express.js, and I have experience with authentication, WebSockets, relational and NoSQL databases, and backend tooling used in real development workflows.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelaziz-omar-645250300)
+I have also worked with `.NET` and `C#`, with strong programming fundamentals that help me adapt quickly across stacks.
 
----
+## Contact
 
-## 🛠️ Technical Skills
+- Email: `abdelaziz.omar405@gmail.com`
+- LinkedIn: [abdelaziz-omar-645250300](https://linkedin.com/in/abdelaziz-omar-645250300)
+- GitHub: [Abdelazizomar22](https://github.com/Abdelazizomar22)
 
-```javascript
-const skills = {
-  Backend:   ["Node.js", "Express.js", "REST APIs", "WebSockets", "JWT"],
-  Databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-  Languages: ["JavaScript", "TypeScript", "Python", "C#", "C/C++"],
-  Tools:     ["Git", "GitHub", "Docker", "Postman", "Linux"],
-}
+  </td>
+  <td valign="top" width="44%">
+    <img src="./assets/giphy.gif" alt="Coding workspace animation" width="100%" />
+  </td>
+  </tr>
+</table>
+
+## Technical Skills
+
+```text
+Backend     : Node.js, Express.js, REST APIs, WebSockets, JWT
+Databases   : PostgreSQL, MongoDB, MySQL, Redis
+Languages   : JavaScript, TypeScript, Python, C#
+Tools       : Git, GitHub, Docker, Postman, Linux
+Additional  : .NET, API design, authentication, backend fundamentals
 ```
 
----
+## What I Do
 
-## 💼 What I Do
+- Build backend applications with clear structure and maintainable code.
+- Design and develop RESTful APIs for web and mobile integrations.
+- Work with SQL and NoSQL databases based on project needs.
+- Implement authentication and authorization flows using JWT.
+- Develop real-time features and communication flows with WebSockets.
 
-- 🔐 Build secure REST APIs with JWT authentication and role-based access control
-- ⚡ Implement real-time features using WebSockets
-- 🗄️ Design normalized database schemas and optimize query performance
-- 🛡️ Apply backend security best practices (rate limiting, input validation, bcrypt)
+## Current Direction
 
----
-
-## 📌 Featured Projects
-
-### 🔗 URL Shortener & Analytics API
-> Node.js • Express.js • PostgreSQL • Redis • JWT
-
-Built a URL shortening service with click analytics, Redis caching for high-traffic redirects, and rate limiting to prevent abuse.
-
----
-
-### 💬 Real-Time Chat API
-> Node.js • Express.js • WebSockets • PostgreSQL • JWT
-
-Real-time messaging backend supporting multiple chat rooms, JWT auth over WebSocket connections, and persistent message history.
-
----
-
-### 🛒 E-Commerce REST API
-> Node.js • Express.js • MongoDB • JWT • Bcrypt.js
-
-Full e-commerce backend with product catalog, cart, orders, role-based auth (admin/customer), and email notifications via Nodemailer.
-
----
-
-<div align="center">
-
-*References available upon request*
-
-</div>
+- Deepening backend architecture and system design knowledge.
+- Strengthening practical experience with production-style applications.
+- Continuing to grow in `.NET` while building on strong backend foundations.

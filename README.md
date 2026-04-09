@@ -21,8 +21,8 @@
 </a>
 </p>
 </td>
-<td width="44%" valign="top" align="right">
-<img src="./assets/giphy.gif" alt="Coding workspace animation" width="100%" />
+<td width="44%" valign="middle" align="center">
+<img src="./assets/giphy.gif" alt="Coding workspace animation" width="92%" />
 </td>
 </tr>
 </table>

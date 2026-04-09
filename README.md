@@ -1,35 +1,38 @@
-<h1 align="center">Abdelaziz Omar</h1>
+<h1 align="center">Hi there! 👋 I'm Abdelaziz Omar</h1>
 
-<p align="center">Back End Developer</p>
-
-<p align="center">
-  Building reliable backend services, clean APIs, and practical systems with a strong focus on fundamentals.
-</p>
+<h3 align="center">Back End Developer</h3>
 
 <hr />
 
 <table>
   <tr>
-    <td valign="top" width="56%">
+    <td valign="top" width="50%">
 
-## Profile
+## About Me
 
-Back End Developer with hands-on experience building server-side applications and API-driven systems.
+- Passionate about building backend services and practical API-driven systems.
+- Reach me at: [abdelaziz.omar405@gmail.com](mailto:abdelaziz.omar405@gmail.com)
+- Working mainly with Node.js, Express.js, PostgreSQL, MongoDB, MySQL, and Redis.
+- I also worked with `.NET` and `C#`, backed by strong core programming fundamentals.
 
-I work mainly with Node.js and Express.js, and I have experience with authentication, WebSockets, relational and NoSQL databases, and backend tooling used in real development workflows.
+## Connect with me
 
-I have also worked with `.NET` and `C#`, with strong programming fundamentals that help me adapt quickly across stacks.
+<p>
+  <a href="https://linkedin.com/in/abdelaziz-omar-645250300">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdelaziz.omar405@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Abdelazizomar22">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-## Contact
-
-- Email: `abdelaziz.omar405@gmail.com`
-- LinkedIn: [abdelaziz-omar-645250300](https://linkedin.com/in/abdelaziz-omar-645250300)
-- GitHub: [Abdelazizomar22](https://github.com/Abdelazizomar22)
-
-  </td>
-  <td valign="top" width="44%">
-    <img src="./assets/giphy.gif" alt="Coding workspace animation" width="100%" />
-  </td>
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/giphy.gif" alt="Coding workspace animation" width="100%" />
+    </td>
   </tr>
 </table>
 

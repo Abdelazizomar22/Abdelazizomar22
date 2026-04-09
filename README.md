@@ -4,34 +4,43 @@
 
 <hr />
 
-<img align="right" alt="Coding workspace animation" width="360" src="./assets/giphy.gif" />
+<table width="100%">
+  <tr>
+    <td width="56%" valign="top">
+      <h2>About Me</h2>
+      <ul>
+        <li>Passionate about building backend services and practical API-driven systems.</li>
+        <li>Working mainly with Node.js, Express.js, PostgreSQL, MongoDB, MySQL, and Redis.</li>
+        <li>I also worked with <code>C#</code>, backed by strong core programming fundamentals.</li>
+      </ul>
 
-## About Me
+      <h2>Connect with me</h2>
+      <p>
+        <a href="https://linkedin.com/in/abdelaziz-omar-645250300">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="mailto:abdelaziz.omar405@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </p>
+    </td>
+    <td width="44%" valign="top" align="right">
+      <img src="./assets/giphy.gif" alt="Coding workspace animation" width="100%" />
+    </td>
+  </tr>
+</table>
 
-- Passionate about building backend services and practical API-driven systems.
-- Working mainly with Node.js, Express.js, PostgreSQL, MongoDB, MySQL, and Redis.
-- I also worked with `C#`, backed by strong core programming fundamentals.
-
-## Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/abdelaziz-omar-645250300">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdelaziz.omar405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br clear="right" />
-
-## Technical Skills
+<h2>Technical Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,cs,postgres,mongodb,mysql,redis,docker,git,postman,linux&perline=7" alt="Technical Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,cs,postgres,mongodb&perline=7" alt="Backend and database skills" />
 </p>
 
-## What I Do
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,git,postman,linux,bash&perline=7" alt="Tools and backend workflow skills" />
+</p>
+
+<h2>What I Do</h2>
 
 - Build backend applications with clear structure and maintainable code.
 - Design and develop RESTful APIs for web and mobile integrations.
@@ -39,7 +48,7 @@
 - Implement authentication and authorization flows using JWT.
 - Develop real-time features and communication flows with WebSockets.
 
-## Current Direction
+<h2>Current Direction</h2>
 
 - Deepening backend architecture and system design knowledge.
 - Strengthening practical experience with production-style applications.

@@ -29,7 +29,7 @@
 
 <h2>Technical Skills</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,express,npm,socketio,postgres&perline=8" alt="Languages and backend skills" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,express,npm,graphql,postgres&perline=8" alt="Languages and backend skills" />
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,git,postman,linux,bash&perline=8" alt="Databases and workflow tools" />
